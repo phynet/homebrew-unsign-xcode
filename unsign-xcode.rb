@@ -9,6 +9,6 @@ class UnsignXcode < Formula
   # depends_on "cmake" => :build
 
   def install
-    deb.install "unsignX"
+    bin.install "unsignX"
   end
 end
