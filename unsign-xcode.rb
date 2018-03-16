@@ -5,7 +5,7 @@ class UnsignXcode < Formula
   desc ""
   homepage ""
   url "https://github.com/phynet/unsign-xcode/archive/v1.0.2.tar.gz"
-  sha256 "c5753e66fa60e4cf9fb7129e89e63a0af5d58d4388d6764b68fe0fd985207bc7"
+  sha256 "99897a7feb697cd411533db1ee0c39ede3e781c01c56cd3cb7a3feb34baae1e8"
   # depends_on "cmake" => :build
 
   def install
