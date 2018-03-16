@@ -4,11 +4,11 @@
 class UnsignXcode < Formula
   desc ""
   homepage ""
-  url "https://github.com/phynet/unsign-xcode/archive/v1.0.2.tar.gz"
-  sha256 "99897a7feb697cd411533db1ee0c39ede3e781c01c56cd3cb7a3feb34baae1e8"
+  url "https://github.com/phynet/unsign-xcode/archive/v1.0.3.tar.gz"
+  sha256 "147bb53074509636f30771338f60a927ee529081ddb694a609e06a55d6f94dfd"
   # depends_on "cmake" => :build
 
   def install
-    bin.install "unsign-xcode"
+     bin.install "unsign-xcode"
   end
 end
